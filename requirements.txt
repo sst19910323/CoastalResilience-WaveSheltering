@@ -1,0 +1,15 @@
+numpy
+pandas
+xarray
+netCDF4
+scipy
+matplotlib
+rasterio
+opencv-python
+cartopy
+requests
+pillow
+windrose
+gdal
+mercantile
+pyproj
